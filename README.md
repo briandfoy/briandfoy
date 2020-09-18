@@ -1,4 +1,4 @@
-### brian d foy
+[![Header](https://raw.githubusercontent.com/briandfoy/briandfoy/header.jpg "Header")](https://briandfoy.github.io/)
 
 <!--
 **briandfoy/briandfoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
