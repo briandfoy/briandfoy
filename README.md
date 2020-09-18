@@ -1,5 +1,3 @@
-[![Header](https://github.com/briandfoy/briandfoy/raw/master/header.jpg "Header")](https://briandfoy.github.io/)
-
 <p align="center">
 <a href="https://leanpub.com/preparing_for_perl7"><img src="https://briandfoy.github.io/images/book_covers/preparing_for_perl7.png"></a>
 <a href="https://leanpub.com/mojo_web_clients"><img src="https://briandfoy.github.io/images/book_covers/mojolicious_web_clients.png"></a>
