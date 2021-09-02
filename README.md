@@ -5,6 +5,7 @@
 <a href="https://www.effectiveperlprogramming.com"><img src="https://briandfoy.github.io/images/book_covers/effective_perl_programming.png"></a>
 </p>
 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 <div>
 <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=briandfoy&count_private=true" /> <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briandfoy&layout=compact" />
 </div>
